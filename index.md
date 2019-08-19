@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 一尘的主页 - 有别于客观现实的幻想乡
 
 You can use the [editor on GitHub](https://github.com/ychenli/ychenli.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
